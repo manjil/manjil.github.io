@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "M"
-  avatar           : "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a bookpacker."
   location         : "In a quaint little town."
   email            : "qlt@gonitsora.com"
