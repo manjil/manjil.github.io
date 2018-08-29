@@ -1,6 +1,4 @@
-# main links
 main:
- 
   - title: "About"
     url: /about/
   - title: "Posts"
@@ -8,6 +6,6 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Tags"
-    url: /tags/   
+    url: /tags/
   - title: "FAQs"
     url: /faqs/
