@@ -1,0 +1,4 @@
+---
+title: "FAQs"
+permalink: /faqs/
+---
